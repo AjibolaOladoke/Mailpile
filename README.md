@@ -6,11 +6,11 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![Mailpile](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![Mailpile](images/preview.png)](https://github.com/Swift-Tech-Co/Mailpile)
 
 ## Introduction (Obsolete) ##
 
-Mailpile (https://www.swifttechco.com) is a modern, fast web-mail client
+Mailpile (https://github.com/Swift-Tech-Co/Mailpile) is a modern, fast web-mail client
 with user-friendly encryption and privacy features. The development of
 Mailpile is funded by
 a large community of backers
@@ -34,18 +34,16 @@ allows e-mail to be organized using tags (similar to GMail's labels) and
 the application can be configured to automatically tag incoming mail
 either based on static rules or bayesian classifiers.
 
-
 ### Trying Mailpile
 
 If you need to run Mailpile v1 to access legacy data, consider using
 our legacy Docker images.
 
-
 ## Credits and License ##
 
-Bjarni R. Einarsson (https://www.swifttechco.com) created this!  If you
+Bjarni R. Einarsson (https://github.com/Swift-Tech-Co/Mailpile) created this!  If you
 think it's neat, you should also check out PageKite:
-https://www.swifttechco.com. Smári and
+https://github.com/Swift-Tech-Co/Mailpile. Smári and
 Brennan joined the team in 2013 and made
 this a real project (not just a toy search engine).
 
@@ -57,9 +55,9 @@ journalists and everday folks!
 
 Contributors:
 
-- Bjarni R. Einarsson (https://www.swifttechco.com)
-- Brennan Novak (https://www.swifttechco.com)
-- Smari McCarthy (https://www.swifttechco.com)
+- Bjarni R. Einarsson (https://github.com/Swift-Tech-Co/Mailpile)
+- Brennan Novak (https://github.com/Swift-Tech-Co/Mailpile)
+- Smari McCarthy (https://github.com/Swift-Tech-Co/Mailpile)
 - Lots more, run `git shortlog -s` for a list! (Or check
   GitHub.)
 
@@ -84,13 +82,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/Mailpile
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [mailpile/Mailpile](https://github.com/mailpile/Mailpile) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
